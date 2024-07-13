@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I miss you too!";
   gif.src =
-    "https://media1.giphy.com/media/gdspgdOIV1HxhnxQOH/giphy.gif";
+    "https://media0.giphy.com/media/iezF6J0km0CY6FQjLh/giphy.webp";
 });
 
 noBtn.addEventListener("mouseover", () => {
